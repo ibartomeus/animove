@@ -48,7 +48,7 @@ Imports:
 Remotes:
 	github::ctmm-initiative/ctmmweb,
     github::rforge/tlocoh/pkg,
-    github::16EAGLE/getSpatialData,
+    github::16EAGLE/getSpatialData
 License: GPL v3
 Encoding: UTF-8
 LazyData: true
